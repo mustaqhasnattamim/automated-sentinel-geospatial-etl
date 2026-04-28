@@ -35,5 +35,12 @@ The primary outputs are time-stamped `.geojson` files, designed for immediate ca
 
 
 ---
-**Author:** Mustaq Hasnat Tamim  
-**Academic Focus:** Environmental Science and Geography  
+## 📧 Contact & Support
+**M. H. Tamim** *Undergraduate Student* Department of Environmental Science and Geography  
+Islamic University Bangladesh  
+
+📩 **Email:** [m.h.tamim.esg@std.iu.ac.bd](mailto:m.h.tamim.esg@std.iu.ac.bd)  
+🔗 **LinkedIn:**   https://linkedin.com/in/mustaqhasnattamim
+🌐 **GitHub:** https://github.com/mustaqhasnattamim
+👥 **Facebook:** https://facebook.com/mustaqhasnattamim13
+
